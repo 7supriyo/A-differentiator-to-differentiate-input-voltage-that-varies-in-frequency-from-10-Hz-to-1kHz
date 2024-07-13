@@ -1,0 +1,1 @@
+# A-differentiator-to-differentiate-input-voltage-that-varies-in-frequency-from-10-Hz-to-1kHz
